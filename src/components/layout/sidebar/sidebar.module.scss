@@ -1,0 +1,7 @@
+.active {
+    @apply text-white-100  font-normal;
+
+    path {
+        @apply stroke-yellow-100;
+    }
+}
